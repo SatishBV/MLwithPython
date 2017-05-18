@@ -1,3 +1,4 @@
+#The task is to find the number of weeks before our infrastructure has 100000 hits, so as to prepare for change of a server.
 #Change the current working direcory
 import os
 os.chdir('C:\\Users\\satis\\Desktop\\Summer ML\\Mine\\ch01')
